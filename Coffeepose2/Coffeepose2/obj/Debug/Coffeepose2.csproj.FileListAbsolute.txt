@@ -1,0 +1,10 @@
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\bin\Debug\Coffeepose2.exe.config
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\bin\Debug\Coffeepose2.exe
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\bin\Debug\Coffeepose2.pdb
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.csprojResolveAssemblyReference.cache
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.Form1.resources
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.Properties.Resources.resources
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.csproj.GenerateResource.Cache
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.csproj.CoreCompileInputs.cache
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.exe
+c:\users\harry potter\source\repos\Coffeepose2\Coffeepose2\obj\Debug\Coffeepose2.pdb
